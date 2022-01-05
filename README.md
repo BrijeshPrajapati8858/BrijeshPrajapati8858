@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @BrijeshPrajapati8858
+- 👋 Hi, I’m @BrijeshPrajapati
 - 👀 I’m interested in full stack web developer
 - 🌱 I’m currently learning php and mysqli
 - 💞️ I’m looking to collaborate on web development
